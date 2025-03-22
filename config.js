@@ -7,7 +7,7 @@ global.audio = "";
 global.video = "";
 global.port = process.env.PORT;
 global.appUrl = process.env.APP_URL || "";
-global.email = "chanjinhuyk@gmail.com";
+global.email = "lafouinedjamel@@gmail.com";
 global.location = "Douala, congo-brazaville";
 global.mongodb = process.env.MONGODB_URL || "mongodb+srv://paulrick312:rBfEkBv2P9b6LDWH@cluster0.pmmq0.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
 global.allowJids = process.env.ALLOW_JID || "null";
@@ -49,11 +49,11 @@ module.exports = {
   HANDLERS: process.env.PREFIX || ".",
   BRANCH: process.env.BRANCH || "main",
   VERSION: process.env.VERSION || "1.0.0",
-  caption: process.env.CAPTION || "`BRAND PRODUCT OF 𝐉𝚰𝚴𝚮𝐘𝐔𝐊`",
-  author: process.env.PACK_AUTHER || "🍂𝐊𝐀𝐍𝐆 𝐉𝐈𝐍𝐇𝐘𝐔𝐊🍂",
-  packname: process.env.PACK_NAME || "🍂𝐉𝐈𝐍𝐇𝐔𝐘𝐊-𝐌𝐃🍂",
-  botname: process.env.BOT_NAME || "𝐉𝚰𝚴𝚮𝐘𝐔𝐊-𝚳𝐃",
-  ownername: process.env.OWNER_NAME || "🍁𝐊𝐀𝐍𝐆 𝐉𝐈𝐍𝐇𝐘𝐔𝐊🍁",
+  caption: process.env.CAPTION || "`BRAND PRODUCT OF FOUINI`",
+  author: process.env.PACK_AUTHER || "🍂KING FOUINI 🍂",
+  packname: process.env.PACK_NAME || "🍂FOUINI DEV🍂",
+  botname: process.env.BOT_NAME || "𝐅𝐎𝐔𝐈𝐍𝐈 2.0",
+  ownername: process.env.OWNER_NAME || "🍁𝐊𝐈𝐍𝐆 𝐅𝐎𝐔𝐈𝐍𝐈🍁",
   errorChat: process.env.ERROR_CHAT || "",
   KOYEB_API: process.env.KOYEB_API || "false",
   REMOVE_BG_KEY: process.env.REMOVE_BG_KEY || "tCxobE1FqJgfbDZgsYQNHBFB",
